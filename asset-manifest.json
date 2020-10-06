@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Weather-api/static/css/main.ae5cac04.chunk.css",
+    "main.js": "/Weather-api/static/js/main.8f61c5cc.chunk.js",
+    "main.js.map": "/Weather-api/static/js/main.8f61c5cc.chunk.js.map",
+    "runtime-main.js": "/Weather-api/static/js/runtime-main.3f30827d.js",
+    "runtime-main.js.map": "/Weather-api/static/js/runtime-main.3f30827d.js.map",
+    "static/js/2.a02d2411.chunk.js": "/Weather-api/static/js/2.a02d2411.chunk.js",
+    "static/js/2.a02d2411.chunk.js.map": "/Weather-api/static/js/2.a02d2411.chunk.js.map",
+    "index.html": "/Weather-api/index.html",
+    "precache-manifest.e65b63c157954239e6a1530ffb3e4126.js": "/Weather-api/precache-manifest.e65b63c157954239e6a1530ffb3e4126.js",
+    "service-worker.js": "/Weather-api/service-worker.js",
+    "static/css/main.ae5cac04.chunk.css.map": "/Weather-api/static/css/main.ae5cac04.chunk.css.map",
+    "static/js/2.a02d2411.chunk.js.LICENSE.txt": "/Weather-api/static/js/2.a02d2411.chunk.js.LICENSE.txt",
+    "static/media/Style.scss": "/Weather-api/static/media/mountains2.186e8f6b.jpg",
+    "static/media/logo.svg": "/Weather-api/static/media/logo.5d5d9eef.svg",
+    "static/media/sunny.svg": "/Weather-api/static/media/sunny.6da4dd1d.svg",
+    "static/media/wi-wind-deg2.svg": "/Weather-api/static/media/wi-wind-deg2.5027b830.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f30827d.js",
+    "static/js/2.a02d2411.chunk.js",
+    "static/css/main.ae5cac04.chunk.css",
+    "static/js/main.8f61c5cc.chunk.js"
+  ]
+}
